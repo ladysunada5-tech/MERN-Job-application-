@@ -1,0 +1,9 @@
+
+{
+  "name": "HireSync - Advanced Job Management System",
+  "description": "A comprehensive job application platform featuring role-based access control, real-time application tracking, recruiter and seeker dashboards, and an integrated AI Career Assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
